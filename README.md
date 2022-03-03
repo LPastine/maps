@@ -20,3 +20,9 @@ parcel index.html
 npm install faker@5.5.3
 npm install @types/faker@5.5.9
 ```
+
+### Install Google Maps Types
+
+```bash
+npm install @types/google.maps
+```
